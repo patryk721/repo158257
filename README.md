@@ -3,5 +3,5 @@
 
 ## Projekt 
 **Celem projektu jest przećwiczenie **
-  *tworzenia tworzenia repozytorium i operacji na nim
-  *dokumentacji w Doxygen'ie
+  1. tworzenia tworzenia repozytorium i operacji na nim
+  1. dokumentacji w Doxygen'ie
